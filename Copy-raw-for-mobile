@@ -1,1 +1,1 @@
-https://github.com/Samuiltgr09/Tokrascript-no-text/refs/heads/main/Loader.luau"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Samuiltgr09/Tokrascript-no-text/refs/heads/main/Copy-raw-for-mobile"))()
